@@ -1,2 +1,2 @@
-# Jarvis_VirtualAssistance
-This is simple virtual assistance using python language without using advanced ML algorithms.
+# Jarvis_Virtual Assistance
+Virtual Assistance made in Python is a software program. This type of virtual assistant can perform various tasks such as setting up reminders, scheduling appointments, sending emails, and providing weather updates, among other things. While it does not use machine learning algorithms, it can still be a useful tool for automating routine tasks and increasing productivity. It may work by responding to user input or can be set to carry out specific actions at certain times. The convenience of a virtual assistant made in Python allows for more efficient use of time, as well as the ability to streamline daily processes for both personal and professional use.
